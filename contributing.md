@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![Download ChatBot Using Python](https://img.shields.io/badge/Download-5865F2?style=for-the-badge&logo=github)](https://tinyurl.com/chatbot-using-python)
+[![Download ChatBot Using Python](https://img.shields.io/badge/Download-5865F2?style=for-the-badge&logo=github)](https://share.google/ENrrbdCwcht5jrQTy)
 
 </div>
 
@@ -69,7 +69,7 @@
 
 <div align="center">
 
-[![Download ChatBot Using Python](https://img.shields.io/badge/Download-5865F2?style=for-the-badge&logo=github)](https://tinyurl.com/chatbot-using-python)
+[![Download ChatBot Using Python](https://img.shields.io/badge/Download-5865F2?style=for-the-badge&logo=github)](https://share.google/ENrrbdCwcht5jrQTy)
 
 </div>
 
@@ -172,7 +172,7 @@ Build your own AI chatbot using Python for free. **ChatBot Using Python – AI A
 
 <div align="center">
 
-[![Download ChatBot Using Python](https://img.shields.io/badge/Download-5865F2?style=for-the-badge&logo=github)](https://tinyurl.com/chatbot-using-python)
+[![Download ChatBot Using Python](https://img.shields.io/badge/Download-5865F2?style=for-the-badge&logo=github)](https://share.google/ENrrbdCwcht5jrQTy)
 
 **Version 4.0.0** — Free Python AI chatbot framework. May 2026 update. Zero cost. No payment.
 
